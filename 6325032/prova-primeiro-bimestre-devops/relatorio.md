@@ -184,3 +184,4 @@ Após a destruição, o `terraform state pull` confirmou que o state remoto da i
 ```
 
 Dessa forma, a infraestrutura principal utilizada na prova foi efetivamente encerrada após a coleta das evidências.
+

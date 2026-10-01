@@ -15,7 +15,7 @@ npm-debug.log*
 !*.tfvars.example
 crash.log
 crash.*.log
-# .terraform.lock.hcl NÃO entra aqui — deve ser versionado para fixar o provider
+
 
 # Chaves e credenciais
 *.pem
